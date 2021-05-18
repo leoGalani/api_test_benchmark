@@ -4,8 +4,8 @@
 
 You can run the examples by using the following command:
 
-`time npm run cy cypress/integration/cypress-api-exemple-test.js`
+`time npm run cy cypress/integration/`
 
-`time jest spec/node-fecth-example.spec.js`
+`time jest spec/`
 
 This example this serverest.dev endpoint
