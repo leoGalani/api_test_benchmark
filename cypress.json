@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://serverest.dev"
+  "baseUrl": "https://serverest.dev",
+  "video": false
 }
