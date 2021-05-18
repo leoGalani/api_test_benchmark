@@ -1,0 +1,16 @@
+{
+  "name": "api_test_benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy": "./node_modules/.bin/cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.3.0",
+    "jest": "^26.6.3",
+    "node-fetch": "^2.6.1"
+  }
+}
